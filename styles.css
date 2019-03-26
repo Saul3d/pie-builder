@@ -2,5 +2,15 @@ body{
     background-color:rgb(23, 88, 228);
     color:#fff;
     font-family:sans-serif;
-    padding:3.5em;
+    /* padding:2.5em; */
+}
+#ingredient-container{
+    display:flex;
+    flex-wrap:wrap;
+    margin: 1.25em;
+}
+.card {
+    color:rgb(23, 88, 228);
+    /* margin:.0625em; */
+    box-sizing: border-box;
 }
